@@ -1,0 +1,7 @@
+openai>=1.50
+anthropic>=0.40
+yfinance>=0.2.40
+feedparser>=6.0
+pydantic>=2.7
+pydantic-settings>=2.4
+pytest>=8.0
